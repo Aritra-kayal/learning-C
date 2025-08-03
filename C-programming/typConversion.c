@@ -16,5 +16,11 @@ int main()
     printf("%f\n", 3 / 2);   /*it is not right*/
     printf("%f\n", 3.0 / 2); /*it is right*/
     printf("%f\n", 2.0 / 3); /*it is right*/
+    printf("%f\n", c / d);
+    printf("%f\n", d / c);
+    printf("%d\n", a / b);
+    printf("%f\n", a / b);
+    printf("%d\n", 1.0 / 2.0);
+    printf("%f\n", 1.0 / 2.0);
     return 0;
 }
