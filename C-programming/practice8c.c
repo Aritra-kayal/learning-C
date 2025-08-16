@@ -1,4 +1,4 @@
-//// print 1(true) or 0(false)
+// print 1(true) or 0(false)
 //  c. if a number is greater than 9 and less than 100 --> true
 #include <stdio.h>
 int main()
