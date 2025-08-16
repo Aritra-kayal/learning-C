@@ -9,6 +9,6 @@ int main()
     if the output will be 1 in that case the number is divisible by 2.
     if the output will be 0 in that case the number is not divisible by 2.
     */
-    printf("%d", x % 2 == 0);
+    printf("%d\n", x % 2 == 0);
     return 0;
 }
