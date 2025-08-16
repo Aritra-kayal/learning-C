@@ -1,4 +1,5 @@
 // write a program to check if a number is divisible by 2 or not
+// same for odd or even number
 #include <stdio.h>
 int main()
 {
